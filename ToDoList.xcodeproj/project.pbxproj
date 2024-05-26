@@ -32,6 +32,7 @@
 		75444AC02C0233F6006F700D /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75444ABF2C0233F6006F700D /* ToDoListItemViewViewModel.swift */; };
 		756BE46F2C023A670062C7D3 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756BE46E2C023A670062C7D3 /* HeaderView.swift */; };
 		756BE4712C024F220062C7D3 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756BE4702C024F220062C7D3 /* TLButton.swift */; };
+		756BE4732C02F4860062C7D3 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756BE4722C02F4860062C7D3 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		75444ABF2C0233F6006F700D /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		756BE46E2C023A670062C7D3 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		756BE4702C024F220062C7D3 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		756BE4722C02F4860062C7D3 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				750FF4E52C0213DD00D86FEA /* ToDoListApp.swift */,
 				750FF4E92C0213E000D86FEA /* Assets.xcassets */,
 				750FF4FA2C021F4400D86FEA /* GoogleService-Info.plist */,
+				756BE4722C02F4860062C7D3 /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				75444AB82C0233B8006F700D /* ToDoListViewViewModel.swift in Sources */,
 				75444ABC2C0233DD006F700D /* LoginViewViewModel.swift in Sources */,
 				750FF4E62C0213DD00D86FEA /* ToDoListApp.swift in Sources */,
+				756BE4732C02F4860062C7D3 /* Extensions.swift in Sources */,
 				75444AB22C023364006F700D /* ToDoListItem.swift in Sources */,
 				75444AA82C0232CF006F700D /* NewItemView.swift in Sources */,
 				75444ABA2C0233CC006F700D /* NewItemViewViewModel.swift in Sources */,
